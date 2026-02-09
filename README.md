@@ -14,3 +14,6 @@ This is a **contact form built using HTML** for Lesson 6 of the Super-Advantage 
 
 ## Technologies
 - HTML5
+
+##View live page
+-click this link to view live website:  https://noorfatimab.github.io/Lesson-6-contact-form/ 

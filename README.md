@@ -1,6 +1,6 @@
 # Lesson 6 – Contact Form
 
-This is a **contact form built using HTML** for Lesson 6 of the Super-Advantage Web Mastery curriculum.  
+This is a **contact form built using HTML** for Lesson 6. 
 
 ## Features
 - Name and Email input fields  
